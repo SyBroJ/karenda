@@ -1,10 +1,11 @@
 {
   "development": {
-    "username": "root",
-    "password": "07085082160Sy.",
-    "database": "events",
-    "host": "localhost",
-    "dialect": "mysql",
+    "username": "postgres.jupmzcdeyunbkynjavff",
+    "password": "07085082160@Sy.",
+    "database": "postgres",
+    "host": "aws-0-ap-southeast-1.pooler.supabase.com",
+    "dialect": "postgres",
+    "ssl": true, 
     "logging": false,
     "query": {
       "raw": true
